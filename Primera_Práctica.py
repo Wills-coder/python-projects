@@ -1,5 +1,5 @@
 #Este es un ejercicio práctico, tomando en cuenta absolutamente todo lo que he aprendido hasta ahora.
-#Veremos Datos desde teclado, bastantes variables, y sobre todo, muchas sentencias condicionales.
+#Veremos Datos desde teclado, y sobre todo, muchas sentencias condicionales.
 #He aquí la solicitud de trabajo práctico:
 
 '''Una compañía solicita un sistema que determine los dias de vacaciones a los que tiene derecho un
