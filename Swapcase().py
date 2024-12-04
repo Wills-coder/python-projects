@@ -1,4 +1,4 @@
-txtlowerupper = "gABRIEL aGUAYO wILLS"
+txtlowerupper = "jUANITO aLCACHOFA fIRULAIS"
 print(txtlowerupper.swapcase())
 
 txtupper = "CADENA DE MAYÚSCULAS"
