@@ -1,8 +1,8 @@
-nombre = "GaBrIeL AgUaYO wIllS"
+nombre = "El cHuPa ChUpS"
 nombre = nombre.istitle()
 print(nombre)
 
-nombre = "GaBrIeL AgUaYO wIllS"
+nombre = "El ChuPA ChuPs"
 nombre = nombre.title()
 print(nombre)
 
